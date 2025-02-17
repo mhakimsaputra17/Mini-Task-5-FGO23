@@ -23,5 +23,8 @@ const calculator = (nums1,operator, nums2) =>{
     }
 }
 
-calculator(10, "+", 10);
 
+calculator(10, "+", 10);
+calculator(10, "-", 10);
+calculator(10, "*", 10);
+calculator(10, "/", 10);
